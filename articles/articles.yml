@@ -1,14 +1,11 @@
-charity_initiative:
-  title: "Greensboro Charity Initiative: Second Harvest Food Bank"
-  author: Julia Walser
-  no_gallery: true
 coding_challenge:
   title: "Coding Challenge: Season Two"
   author: Lily Powell
   no_gallery: true
-test:
-  title: Test Article
-  author: Jessica Marshall
+charity_initiative:
+  title: "Greensboro Charity Initiative: Second Harvest Food Bank"
+  author: Julia Walser
+  no_gallery: true
 consultants:
   title: Meet the Consultants
   author: Linley Love

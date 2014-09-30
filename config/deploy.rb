@@ -1,7 +1,7 @@
 # config valid only for Capistrano 3.1
 lock '3.2.1'
 
-set :application, 'rr_q1_fy15'
+set :application, 'rr_q1_fy16'
 set :repo_url, 'git@github.com:LGordon2/rural_reader_q1.git'
 
 # Default branch is :master
